@@ -16,3 +16,4 @@
 [2025-07-04 19:57:32 +0700] feat: improve utility helpers
 [2025-07-04 19:59:13 +0700] refactor: optimize internal logic
 [2025-07-05 08:53:34 +0700] chore: maintenance check
+[2025-07-05 21:45:26 +0700] fix: minor typo and formatting
