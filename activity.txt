@@ -56,3 +56,4 @@
 [2025-07-17 11:18:06 +0700] docs: update documentation notes
 [2025-07-17 12:58:29 +0700] docs: update documentation notes
 [2025-07-17 15:08:48 +0700] chore: maintenance check
+[2025-07-17 17:07:43 +0700] feat: improve utility helpers
