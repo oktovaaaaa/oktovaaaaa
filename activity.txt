@@ -75,3 +75,4 @@
 [2025-07-21 15:16:46 +0700] feat: enhance daily workflow
 [2025-07-22 13:50:36 +0700] fix: minor typo and formatting
 [2025-07-22 19:57:51 +0700] test: update unit assertions
+[2025-07-22 20:32:09 +0700] feat: improve utility helpers
