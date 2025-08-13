@@ -154,3 +154,4 @@
 [2025-08-11 19:07:51 +0700] test: update unit assertions
 [2025-08-12 11:33:51 +0700] docs: update documentation notes
 [2025-08-12 17:37:25 +0700] chore: maintenance check
+[2025-08-13 12:52:43 +0700] feat: improve utility helpers
