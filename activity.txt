@@ -166,3 +166,4 @@
 [2025-08-15 17:52:50 +0700] fix: minor typo and formatting
 [2025-08-15 20:42:31 +0700] perf: minor performance tweak
 [2025-08-15 21:00:47 +0700] feat: improve utility helpers
+[2025-08-16 09:59:14 +0700] refactor: streamline codebase
