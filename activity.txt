@@ -196,3 +196,4 @@
 [2025-08-26 17:22:34 +0700] fix: minor typo and formatting
 [2025-08-26 18:58:27 +0700] docs: update documentation notes
 [2025-08-26 21:02:14 +0700] fix: minor typo and formatting
+[2025-08-27 17:24:56 +0700] test: update unit assertions
