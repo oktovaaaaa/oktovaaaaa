@@ -240,3 +240,4 @@
 [2025-09-07 18:11:05 +0700] chore: routine sync
 [2025-09-07 20:24:08 +0700] perf: minor performance tweak
 [2025-09-08 16:17:23 +0700] perf: minor performance tweak
+[2025-09-09 12:10:15 +0700] docs: update documentation notes
