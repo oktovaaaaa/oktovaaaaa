@@ -255,3 +255,4 @@
 [2025-09-12 14:40:18 +0700] chore: maintenance check
 [2025-09-12 21:38:00 +0700] chore: maintenance check
 [2025-09-12 22:37:30 +0700] fix: minor typo and formatting
+[2025-09-13 11:42:41 +0700] docs: update documentation notes
