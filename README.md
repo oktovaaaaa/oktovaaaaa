@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,50:004499,100:0099ff&height=160&section=header&text=Hi,%20I'm%20Oktova%20Samosir&fontSize=48&fontColor=fdd935&fontAlignY=45&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=45&lines=I'm+a+Fullstack+Developer+%F0%9F%92%BB;I'm+a+Data+Analyst+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=45&lines=I'm+a+Fullstack+Developer;I'm+a+Data+Analyst" alt="Typing SVG" />
 
 <p align="center">
   Saya <b>Oktova Yoga Praditia Samosir</b>, seorang <b>Data Analyst</b> dan <b>Fullstack Developer</b> dari Balige, Sumatera Utara. Mahasiswa D3 Teknologi Informasi Institut Teknologi Del dengan keahlian dalam web development, mobile app (iOS & Android), serta data science & artificial intelligence.
@@ -43,7 +43,7 @@
 
 ---
 
-## 💻 Skills & Abilities
+## <img src="./skills-icon.svg" width="24" height="24" align="center" /> Skills & Abilities
 
 ### Core Tech Stacks
 
