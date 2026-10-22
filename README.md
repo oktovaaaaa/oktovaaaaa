@@ -30,9 +30,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oktovaaaaa/oktovaaaaa/main/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oktovaaaaa/oktovaaaaa/main/pacman-contribution-graph.svg">
-    <img alt="Pac-Man 2024 Contribution Graph" src="https://raw.githubusercontent.com/oktovaaaaa/oktovaaaaa/main/pacman-contribution-graph.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./pacman-contribution-graph.svg">
+    <img alt="Pac-Man 2024 Contribution Graph" src="./pacman-contribution-graph.svg" width="100%"/>
   </picture>
 </div>
 
