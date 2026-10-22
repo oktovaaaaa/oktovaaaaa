@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=45&lines=I'm+a+Fullstack+Developer;I'm+a+Data+Analyst" alt="Typing SVG" />
 
 <p align="center">
-  Saya <b>Oktova Yoga Praditia Samosir</b>, seorang <b>Data Analyst</b> dan <b>Fullstack Developer</b> dari Balige, Sumatera Utara. Mahasiswa D3 Teknologi Informasi Institut Teknologi Del dengan keahlian dalam web development, mobile app (iOS & Android), serta data science & artificial intelligence.
+  I am <b>Oktova Yoga Praditia Samosir</b>, a <b>Data Analyst</b> and <b>Fullstack Developer</b> from Balige, North Sumatra. An Information Technology student at Del Institute of Technology with expertise in web development, mobile applications (iOS & Android), as well as data science & artificial intelligence.
 </p>
 
 </div>
