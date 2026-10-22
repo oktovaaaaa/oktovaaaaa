@@ -43,9 +43,9 @@
   <!-- Title: C O N N E C T -->
   <text x="433" y="42" text-anchor="middle" class="tech-header-title" filter="url(#neonGlowHeader)">C O N N E C T</text>
 
-  <!-- Subtitle: ESTABLISHING UPLINK — OKTOVA SAMOSIR (Without "//") -->
+  <!-- Subtitle: ESTABLISHING UPLINK — OKTOVA SAMOSIR -->
   <text x="433" y="68" text-anchor="middle" class="tech-header-sub" filter="url(#softGlowHeader)">ESTABLISHING UPLINK — OKTOVA SAMOSIR</text>
 
-  <!-- Clean Glowing Horizontal Line (Without floating dot) -->
+  <!-- Clean Glowing Horizontal Line -->
   <line x1="65" y1="84" x2="785" y2="84" stroke="url(#cyberLineGrad)" stroke-width="2.2" />
 </svg>

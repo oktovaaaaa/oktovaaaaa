@@ -64,11 +64,20 @@
 </div>
 
 <div align="center">
+  <a href="https://oktovaaaaa.id" target="_blank">
+    <img src="./connect-portfolio.svg" width="270" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/oktovaaaaa" target="_blank">
     <img src="./connect-linkedin.svg" width="270" alt="LinkedIn" />
   </a>
+  <a href="https://discord.com/users/oktovaaaaa" target="_blank">
+    <img src="./connect-discord.svg" width="270" alt="Discord" />
+  </a>
   <a href="https://wa.me/62881080811110" target="_blank">
     <img src="./connect-whatsapp.svg" width="270" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/+62881080811110" target="_blank">
+    <img src="./connect-telegram.svg" width="270" alt="Telegram" />
   </a>
   <a href="https://instagram.com/oktovaaaaa" target="_blank">
     <img src="./connect-instagram.svg" width="270" alt="Instagram" />

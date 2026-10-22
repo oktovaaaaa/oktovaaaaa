@@ -83,7 +83,7 @@
   <!-- Middle Text: Title -->
   <text x="82" y="39" class="hud-title-li" filter="url(#elementGlow-li)">LINKEDIN</text>
   
-  <!-- Subtitle: Username or Number -->
+  <!-- Subtitle: Username, Domain or Number -->
   <text x="82" y="56" class="hud-subtitle-li">oktovaaaaa</text>
 
   <!-- Right Chevrons >> -->

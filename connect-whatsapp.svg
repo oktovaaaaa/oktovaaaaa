@@ -81,7 +81,7 @@
   <!-- Middle Text: Title -->
   <text x="82" y="39" class="hud-title-wa" filter="url(#elementGlow-wa)">WHATSAPP</text>
   
-  <!-- Subtitle: Username or Number -->
+  <!-- Subtitle: Username, Domain or Number -->
   <text x="82" y="56" class="hud-subtitle-wa">0881080811110</text>
 
   <!-- Right Chevrons >> -->

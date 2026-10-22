@@ -1,0 +1,96 @@
+<svg width="270" height="84" viewBox="0 0 270 84" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="cardNeonGlow-pf" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="elementGlow-pf" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient id="borderGradient-pf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="30%" stop-color="#00a8ff" />
+      <stop offset="70%" stop-color="#0066cc" />
+      <stop offset="100%" stop-color="#00f0ff" />
+    </linearGradient>
+    <radialGradient id="topFlare-pf" cx="10%" cy="15%" r="80%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.25" />
+      <stop offset="45%" stop-color="#0284c7" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#050a14" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    @keyframes chevronShift-pf {
+      0%, 100% { transform: translateX(0); }
+      50% { transform: translateX(2.5px); }
+    }
+    .hud-chevrons-pf {
+      animation: chevronShift-pf 1.6s ease-in-out infinite;
+    }
+    .hud-title-pf {
+      font-family: 'Courier New', 'Consolas', monospace;
+      font-size: 14.5px;
+      font-weight: 900;
+      letter-spacing: 2.8px;
+      fill: #00f0ff;
+    }
+    .hud-subtitle-pf {
+      font-family: 'Courier New', 'Consolas', monospace;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      fill: #38bdf8;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect x="4" y="4" width="262" height="76" rx="14" fill="#060b14" />
+  
+  <!-- Subtle Specular Flare in Top Left -->
+  <rect x="4" y="4" width="262" height="76" rx="14" fill="url(#topFlare-pf)" />
+
+  <!-- Outer Neon Glowing Border -->
+  <rect x="4" y="4" width="262" height="76" rx="14" stroke="url(#borderGradient-pf)" stroke-width="1.8" filter="url(#elementGlow-pf)" />
+
+  <!-- HUD Corner Brackets (Exact Rounded Corners) -->
+  <path d="M 15 25 V 18 A 3 3 0 0 1 18 15 H 25" fill="none" stroke="#00f0ff" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M 245 15 H 252 A 3 3 0 0 1 255 18 V 25" fill="none" stroke="#00f0ff" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M 15 59 V 66 A 3 3 0 0 0 18 69 H 25" fill="none" stroke="#00f0ff" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M 245 69 H 252 A 3 3 0 0 0 255 66 V 59" fill="none" stroke="#00f0ff" stroke-width="1.8" stroke-linecap="round" />
+
+  <!-- Left Icon Squircle Box -->
+  <rect x="33" y="24" width="36" height="36" rx="9" fill="#091424" stroke="#00e5ff" stroke-width="1.5" filter="url(#elementGlow-pf)" />
+  
+  <!-- Icon Group -->
+  <g transform="translate(33, 24)">
+    
+  <g transform="translate(6, 6) scale(1)">
+    <circle cx="12" cy="12" r="10" stroke="#00f0ff" stroke-width="2" fill="none"/>
+    <ellipse cx="12" cy="12" rx="4.5" ry="10" stroke="#00f0ff" stroke-width="1.8" fill="none"/>
+    <line x1="2" y1="12" x2="22" y2="12" stroke="#00f0ff" stroke-width="2"/>
+    <line x1="4.2" y1="6.5" x2="19.8" y2="6.5" stroke="#00f0ff" stroke-width="1.6"/>
+    <line x1="4.2" y1="17.5" x2="19.8" y2="17.5" stroke="#00f0ff" stroke-width="1.6"/>
+  </g>
+
+  </g>
+
+  <!-- Middle Text: Title -->
+  <text x="82" y="39" class="hud-title-pf" filter="url(#elementGlow-pf)">PORTFOLIO</text>
+  
+  <!-- Subtitle: Username, Domain or Number -->
+  <text x="82" y="56" class="hud-subtitle-pf">oktovaaaaa.id</text>
+
+  <!-- Right Chevrons >> -->
+  <g class="hud-chevrons-pf" filter="url(#elementGlow-pf)">
+    <path d="M 228 36 L 234 42 L 228 48" stroke="#00f0ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <path d="M 235 36 L 241 42 L 235 48" stroke="#00f0ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+</svg>
