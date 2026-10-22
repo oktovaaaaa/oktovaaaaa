@@ -28,18 +28,9 @@
 
 ## 📅 Contribution Calendar
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>📅 2024 Contribution Calendar</h3>
-      <img src="./metrics.plugin.isocalendar.2024.svg" width="100%">
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>📆 Full Contribution History</h3>
-      <img src="./metrics.plugin.calendar.full.svg" width="100%">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./metrics.plugin.isocalendar.2024.svg" width="100%"/>
+</div>
 
 ---
 
