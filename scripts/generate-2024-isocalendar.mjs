@@ -135,7 +135,7 @@ async function main() {
                 <div class="row">
                     <section>
                         <div class="field" style="margin-top: 6px;">
-                            <span style="font-weight: 600; color: #216e39;">${totalCommits}</span>&nbsp;commits in 2024
+                            <span style="font-weight: 600; color: #216e39;">${totalCommits}</span> commits in 2024
                         </div>
                     </section>
                     <section>
