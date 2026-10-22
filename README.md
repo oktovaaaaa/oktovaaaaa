@@ -12,6 +12,18 @@
 
 ---
 
+## <img src="./pacman-icon.svg" width="24" height="24" align="center" /> Pac-Man Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" src="./pacman-contribution-graph.svg" width="100%"/>
+  </picture>
+</div>
+
+<hr/>
+
 ## <img src="./chart-icon.svg" width="24" height="24" align="center" /> GitHub Statistics
 
 <table width="100%">
@@ -30,18 +42,6 @@
 </div>
 
 <hr/>
-
-## <img src="./pacman-icon.svg" width="24" height="24" align="center" /> Pac-Man Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./pacman-contribution-graph.svg">
-    <img alt="Pac-Man Contribution Graph" src="./pacman-contribution-graph.svg" width="100%"/>
-  </picture>
-</div>
-
----
 
 ## <img src="./skills-icon.svg" width="24" height="24" align="center" /> Skills & Abilities
 
