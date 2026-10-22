@@ -46,7 +46,7 @@
 
 ### Core Tech Stacks
 
-![Core Tech Stacks](https://skillicons.dev/icons?i=python,ts,react,next,tailwind,nodejs,postgres)
+![Core Tech Stacks](https://skillicons.dev/icons?i=python,ts,react,next,tailwind,nodejs,laravel,go,postgres)
 
 ### Other Tech Stacks
 
