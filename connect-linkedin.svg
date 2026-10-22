@@ -28,32 +28,25 @@
   </defs>
 
   <style>
-    @keyframes pulseGlow-li {
-      0%, 100% { opacity: 0.75; }
-      50% { opacity: 1; }
-    }
     @keyframes chevronShift-li {
       0%, 100% { transform: translateX(0); }
       50% { transform: translateX(2.5px); }
-    }
-    .card-status-dot-li {
-      animation: pulseGlow-li 1.6s ease-in-out infinite;
     }
     .hud-chevrons-li {
       animation: chevronShift-li 1.6s ease-in-out infinite;
     }
     .hud-title-li {
       font-family: 'Courier New', 'Consolas', monospace;
-      font-size: 15px;
+      font-size: 14.5px;
       font-weight: 900;
-      letter-spacing: 3px;
+      letter-spacing: 2.8px;
       fill: #00f0ff;
     }
-    .hud-status-li {
+    .hud-subtitle-li {
       font-family: 'Courier New', 'Consolas', monospace;
-      font-size: 8.8px;
+      font-size: 11px;
       font-weight: 700;
-      letter-spacing: 1.8px;
+      letter-spacing: 1.5px;
       fill: #38bdf8;
     }
   </style>
@@ -88,11 +81,10 @@
   </g>
 
   <!-- Middle Text: Title -->
-  <text x="82" y="42" class="hud-title-li" filter="url(#elementGlow-li)">LINKEDIN</text>
+  <text x="82" y="39" class="hud-title-li" filter="url(#elementGlow-li)">LINKEDIN</text>
   
-  <!-- Status Indicator: Pulsing Dot & CONNECTED Text -->
-  <circle cx="86" cy="54" r="2.8" fill="#00f0ff" filter="url(#elementGlow-li)" class="card-status-dot-li" />
-  <text x="94" y="57" class="hud-status-li">CONNECTED</text>
+  <!-- Subtitle: Username or Number -->
+  <text x="82" y="56" class="hud-subtitle-li">oktovaaaaa</text>
 
   <!-- Right Chevrons >> -->
   <g class="hud-chevrons-li" filter="url(#elementGlow-li)">
