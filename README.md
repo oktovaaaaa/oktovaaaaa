@@ -12,7 +12,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency/48/bar-chart.png" width="26" height="26" align="center" /> GitHub Statistics
+## <img src="./chart-icon.svg" width="24" height="24" align="center" /> GitHub Statistics
 
 <table width="100%">
   <tr>
@@ -28,9 +28,10 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=oktovaaaaa&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
----
 
-## Pac-Man Contribution Graph
+<hr/>
+
+## <img src="./pacman-icon.svg" width="24" height="24" align="center" /> Pac-Man Contribution Graph
 
 <div align="center">
   <picture>
