@@ -13,16 +13,16 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=oktovaaaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=oktovaaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktovaaaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktovaaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="100%"/>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=oktovaaaaaa&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=oktovaaaaa&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
 ---
 
@@ -31,8 +31,8 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>📅 Full Year Calendar</h3>
-      <img src="./metrics.plugin.isocalendar.fullyear.svg" width="100%">
+      <h3>📅 2024 Contribution Calendar</h3>
+      <img src="./metrics.plugin.isocalendar.2024.svg" width="100%">
     </td>
     <td width="50%" align="center" valign="top">
       <h3>📆 Full Contribution History</h3>
