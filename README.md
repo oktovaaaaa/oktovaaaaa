@@ -59,5 +59,24 @@
 ---
 
 <div align="center">
+  <img src="./connect-header.svg" width="100%" style="max-width: 850px;" alt="Connect Uplink" />
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/oktovaaaaa" target="_blank">
+    <img src="./connect-linkedin.svg" width="270" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/62881080811110" target="_blank">
+    <img src="./connect-whatsapp.svg" width="270" alt="WhatsApp" />
+  </a>
+  <a href="https://instagram.com/oktovaaaaa" target="_blank">
+    <img src="./connect-instagram.svg" width="270" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,50:004499,100:020c1b&height=100&section=footer" width="100%"/>
 </div>
+
