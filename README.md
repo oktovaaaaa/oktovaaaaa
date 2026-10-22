@@ -5,14 +5,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=45&lines=I'm+a+Fullstack+Developer+%F0%9F%92%BB;I'm+a+Data+Analyst+%F0%9F%93%8A" alt="Typing SVG" />
 
 <p align="center">
-  Saya <b>Oktova Yoga Praditia Samosir</b>, seorang <b>Data Analyst</b> dan <b>Fullstack Developer</b> dari Balige, Sumatera Utara. Lulusan D3 Teknologi Informasi Institut Teknologi Del dengan keahlian dalam web development, mobile app (iOS & Android), serta data science & machine learning.
+  Saya <b>Oktova Yoga Praditia Samosir</b>, seorang <b>Data Analyst</b> dan <b>Fullstack Developer</b> dari Balige, Sumatera Utara. Mahasiswa D3 Teknologi Informasi Institut Teknologi Del dengan keahlian dalam web development, mobile app (iOS & Android), serta data science & artificial intelligence.
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## <img src="https://img.icons8.com/fluency/48/bar-chart.png" width="26" height="26" align="center" /> GitHub Statistics
 
 <table width="100%">
   <tr>
@@ -30,13 +30,13 @@
 </div>
 ---
 
-## 👾 Pac-Man Contribution Graph (2024)
+## Pac-Man Contribution Graph
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./pacman-contribution-graph.svg">
-    <img alt="Pac-Man 2024 Contribution Graph" src="./pacman-contribution-graph.svg" width="100%"/>
+    <img alt="Pac-Man Contribution Graph" src="./pacman-contribution-graph.svg" width="100%"/>
   </picture>
 </div>
 
