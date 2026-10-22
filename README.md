@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=6A0DAD&center=true&vCenter=true&width=700&height=70&lines=Saya+Oktova+Y.+P.+Samosir+%F0%9F%91%8B;Oktova+Y.+P.+Samosir+%E2%9C%A8;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,50:004499,100:0099ff&height=160&section=header&text=Hi,%20I'm%20Oktova%20Samosir&fontSize=48&fontColor=fdd935&fontAlignY=45&animation=twinkling" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=45&lines=I'm+a+Fullstack+Developer+%F0%9F%92%BB;I'm+a+Data+Analyst+%F0%9F%93%8A" alt="Typing SVG" />
+
+<p align="center">
+  Saya <b>Oktova Yoga Praditia Samosir</b>, seorang <b>Data Analyst</b> dan <b>Fullstack Developer</b> dari Balige, Sumatera Utara. Lulusan D3 Teknologi Informasi Institut Teknologi Del dengan keahlian dalam web development, mobile app (iOS & Android), serta data science & machine learning.
+</p>
 
 </div>
 
@@ -89,5 +93,5 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,50:004499,100:020c1b&height=100&section=footer" width="100%"/>
 </div>
