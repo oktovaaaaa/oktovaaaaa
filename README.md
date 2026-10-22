@@ -50,7 +50,7 @@
 
 ### Other Tech Stacks
 
-![Other Tech Stacks](https://skillicons.dev/icons?perline=9&i=tensorflow,pytorch,sklearn,r,express,fastapi,mongodb,mysql,firebase,supabase,prisma,bootstrap,sass,kotlin,swift,apple,java,php)
+![Other Tech Stacks](./other-tech-stacks.svg)
 
 ### Tools
 
