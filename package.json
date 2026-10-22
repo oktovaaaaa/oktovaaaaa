@@ -1,0 +1,9 @@
+{
+  "name": "oktovaaaaa",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate:pacman": "node scripts/generate-2024-pacman.mjs",
+    "generate:calendar": "node scripts/generate-2024-isocalendar.mjs"
+  }
+}

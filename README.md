@@ -26,10 +26,14 @@
 </div>
 ---
 
-## 📅 Contribution Calendar
+## 👾 Pac-Man Contribution Graph (2024)
 
 <div align="center">
-  <img src="./metrics.plugin.isocalendar.2024.svg" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oktovaaaaa/oktovaaaaa/main/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oktovaaaaa/oktovaaaaa/main/pacman-contribution-graph.svg">
+    <img alt="Pac-Man 2024 Contribution Graph" src="https://raw.githubusercontent.com/oktovaaaaa/oktovaaaaa/main/pacman-contribution-graph.svg" width="100%"/>
+  </picture>
 </div>
 
 ---
