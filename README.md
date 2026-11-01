@@ -29,10 +29,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=oktovaaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="100%"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=oktovaaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktovaaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="100%"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=oktovaaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="100%"/>
     </td>
   </tr>
 </table>
