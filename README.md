@@ -29,7 +29,7 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=oktovaaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="100%"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=oktovaaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&v=2" width="100%"/>
     </td>
     <td width="50%" align="center">
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=oktovaaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="100%"/>
@@ -38,7 +38,7 @@
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=oktovaaaaa&theme=tokyonight&hide_border=true&starting_year=2023&timezone=Asia%2FJakarta" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=oktovaaaaa&theme=tokyonight&hide_border=true&starting_year=2023&timezone=Asia%2FJakarta&v=2" width="70%"/>
 </div>
 
 <hr/>
